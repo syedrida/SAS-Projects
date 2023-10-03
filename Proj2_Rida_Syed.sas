@@ -1,6 +1,5 @@
 *SAS Project 2
-*Name: Rida Ali Raza Syed
-*Vnumber: V00927243
+*Name: Rida Syed
 *Date: 02/14/2023;
 
 *Problem 1;
