@@ -1,6 +1,5 @@
 *SAS Project 3
-*Name: Rida Ali Raza Syed
-*Vnumber: V00927243
+*Name: Rida Syed
 *Date: 02/22/2023;
 
 
